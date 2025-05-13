@@ -2,11 +2,12 @@
 
 <h2><a>Konstuct Template company site</a></h2>
 
-The site was created according to the presented layout with screen adaptation settings
+The site was created according to the presented layout 
+with screen adaptation settings
 
 <h3><a>About: </a></h3>
 
-link: 
+link: https://mylilla.github.io/figma_site/
 
 <h3><a>Technology</a></h3>
 
